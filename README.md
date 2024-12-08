@@ -2,7 +2,7 @@
 
 Welcome to **AutoClicker** – a lightweight, user-friendly application designed to automate mouse clicks effortlessly. Whether you need repetitive clicks for productivity, testing, or gaming, AutoClicker has you covered with its customizable options and multilingual interface.
 
----
+--- 
 
 ## 🎯 Features at a Glance
 
