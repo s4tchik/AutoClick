@@ -48,21 +48,22 @@ Open a terminal and run:
 pip install pyqt5 keyboard mouse
 ```
 ### 3. Run the Application
+
 Download the source code and run:
-```
-bash
+
+```bash
 python main.py
 ```
 
 ### 4. Add the Icon
-Place the icon.ico file in the same directory as main.py to display the program icon.
+## Place the icon.ico file in the same directory as main.py to display the program icon.
 
 🌍 About the Developer
-This project was created by a programmer exploring diverse programming languages and technologies. The goal of this project is to develop practical tools while mastering coding concepts and fostering innovation.
+- This project was created by a programmer exploring diverse programming languages and technologies. The goal of this project is to develop practical tools while mastering coding concepts and fostering innovation.
 
-Feel free to reach out for collaboration, feedback, or inquiries!
+# Feel free to reach out for collaboration, feedback, or inquiries!
 
 ⚖️ License
-This project is open-source and available for personal or educational use under a permissive license. Modify, share, and enjoy!
+- This project is open-source and available for personal or educational use under a permissive license. Modify, share, and enjoy!
 
 ⭐ Pro Tip: Use AutoClicker responsibly. Always respect online gaming policies and ensure your actions comply with relevant rules.
