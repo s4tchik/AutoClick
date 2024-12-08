@@ -2,6 +2,7 @@ import sys
 import os
 import json
 import time
+from PyQt5.QtGui import QIcon
 from PyQt5.QtWidgets import (
     QApplication, QWidget, QVBoxLayout, QHBoxLayout, QLabel,
     QLineEdit, QPushButton, QMessageBox, QComboBox, QRadioButton, QButtonGroup
@@ -203,6 +204,7 @@ class AutoClicker(QWidget):
         self.load_config()
 
     def initUI(self):
+        self.setWindowIcon(QIcon("saturn_icon_182816.ico"))
         layout = QVBoxLayout()
 
         # Language selection
