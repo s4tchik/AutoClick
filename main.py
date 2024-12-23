@@ -13,7 +13,7 @@ from PyQt5.QtCore import QThread, pyqtSignal
 TRANSLATIONS = {
     "en": {
         "language": "Language:" 
-        "hotkey": "Hotkey:",
+        "hotkey": "Hotkey:", 
         "set": "Set",
         "delay": "Delay (sec):",
         "mouse_button": "Mouse Button:",
