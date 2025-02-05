@@ -10,7 +10,7 @@ from PyQt5.QtWidgets import (
 from PyQt5.QtCore import QThread, pyqtSignal
 
 # Переводы для интерфейса
-TRANSLATIONS = {
+TRANSLATIONS = { 
     "en": {
         "language": "Language:" 
         "hotkey": "Hotkey:", 
