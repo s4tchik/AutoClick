@@ -24,7 +24,7 @@ TRANSLATIONS = {
         "enter_click_count": "Enter click count",
         "enter_duration": "Enter duration in seconds",
         "status_disabled": "Status: Disabled",
-        "status_enabled": "Status: Enabled",
+        "status_enabled": "Status: Enabled", 
         "start": "Start",
         "stop": "Stop",
         "invalid_hotkey": "Invalid Hotkey",
