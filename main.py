@@ -7,7 +7,7 @@ from PyQt5.QtWidgets import (
     QApplication, QWidget, QVBoxLayout, QHBoxLayout, QLabel,
     QLineEdit, QPushButton, QMessageBox, QComboBox, QRadioButton, QButtonGroup
 )
-from PyQt5.QtCore import QThread, pyqtSignal
+from PyQt5.QtCore import QThread, pyqtSignal 
 
 # Переводы для интерфейса
 TRANSLATIONS = { 
