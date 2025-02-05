@@ -17,7 +17,7 @@ TRANSLATIONS = {
         "set": "Set", 
         "delay": "Delay (sec):",
         "mouse_button": "Mouse Button:",
-        "click_mode": "Click Mode:",
+        "click_mode": "Click Mode:", 
         "infinite": "Infinite",
         "click_count": "Click Count",
         "duration": "Duration (sec)",
