@@ -14,7 +14,7 @@ TRANSLATIONS = {
     "en": {
         "language": "Language:" 
         "hotkey": "Hotkey:", 
-        "set": "Set",
+        "set": "Set", 
         "delay": "Delay (sec):",
         "mouse_button": "Mouse Button:",
         "click_mode": "Click Mode:",
