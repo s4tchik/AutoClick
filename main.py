@@ -26,7 +26,7 @@ TRANSLATIONS = {
         "status_disabled": "Status: Disabled",
         "status_enabled": "Status: Enabled", 
         "start": "Start",
-        "stop": "Stop",
+        "stop": "Stop", 
         "invalid_hotkey": "Invalid Hotkey",
         "enter_valid_hotkey": "Enter a valid hotkey",
         "invalid_delay": "Invalid Delay",
