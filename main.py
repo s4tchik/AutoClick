@@ -12,7 +12,7 @@ from PyQt5.QtCore import QThread, pyqtSignal
 # Переводы для интерфейса
 TRANSLATIONS = { 
     "en": {
-        "language": "Language:" 
+        "language": "Language:"  
         "hotkey": "Hotkey:", 
         "set": "Set", 
         "delay": "Delay (sec):",
