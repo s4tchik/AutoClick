@@ -21,7 +21,7 @@ TRANSLATIONS = {
         "infinite": "Infinite",
         "click_count": "Click Count",
         "duration": "Duration (sec)",
-        "enter_click_count": "Enter click count",
+        "enter_click_count": "Enter click count", 
         "enter_duration": "Enter duration in seconds",
         "status_disabled": "Status: Disabled",
         "status_enabled": "Status: Enabled", 
