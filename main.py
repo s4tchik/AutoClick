@@ -9,7 +9,7 @@ from PyQt5.QtWidgets import (
 )
 from PyQt5.QtCore import QThread, pyqtSignal 
 
-# Переводы для интерфейса
+# Переводы для интерфейса 
 TRANSLATIONS = { 
     "en": {
         "language": "Language:"  
