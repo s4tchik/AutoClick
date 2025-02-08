@@ -5,7 +5,7 @@ import time
 from PyQt5.QtGui import QIcon
 from PyQt5.QtWidgets import (
     QApplication, QWidget, QVBoxLayout, QHBoxLayout, QLabel,
-    QLineEdit, QPushButton, QMessageBox, QComboBox, QRadioButton, QButtonGroup
+    QLineEdit, QPushButton, QMessageBox, QComboBox, QRadioButton, QButtonGroup 
 )
 from PyQt5.QtCore import QThread, pyqtSignal 
 
